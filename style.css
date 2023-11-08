@@ -268,8 +268,8 @@ body{
 @media screen and (max-width: 1024px) {
   .container-firstview{
     background-image:url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero-sp.jpg.webp);
-    background-size:contain;
-    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: top;
     padding-bottom: 28px;
   }
   
